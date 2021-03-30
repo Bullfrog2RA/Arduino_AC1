@@ -10,10 +10,9 @@ Use o FORK para adicionar esse projeto a sua organização antes de começar.
 
 ## **O PROBLEMA:** 
 
-Seu grupo foi contratado para realizar a automação do chão de fábrica de uma farmacêutica responsável por produzir doses de vacina, a automação levará em conta alguns sensores e avisos luminosos para os funcionários responsáveis pela produção.
+Nosso grupo foi chamado para que nós fizemos um sistema eletrico em uma fabrica. Nesse sistema elétrico nos tivemos que fazer metodos para manter um cotrole na fabrica.
 
-Após realizar a montagem, vamos conferir a lista de funcionalidades e adicionar cada ponto necessário para completar o desafio.
-
+Entre esses metodos era fazer com que avizasse sobre a temeratura (led azul), luminosidade (led verde) e um botao que ligava e deligava para saber se a producao esta acontecendo ou esta parada (led vermelho) 
 ### Funcionalidades esperadas:
 
 - Um botão para ligar e outro para desligar a produção indicados pelo led vermelho.
