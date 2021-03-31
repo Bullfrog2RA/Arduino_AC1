@@ -14,7 +14,6 @@ Nosso grupo foi chamado para que nós fizemos um sistema eletrico em uma fabrica
 
 Entre esses metodos era fazer com que avizasse sobre a temeratura (led azul), luminosidade (led verde) e um botao que ligava e deligava para saber se a producao esta acontecendo ou esta parada (led vermelho)
 
-https://github.com/Bullfrog2RA/Arduino_AC1/upload/main
 ### Funcionalidades esperadas:
 
 - Um botão para ligar e outro para desligar a produção indicados pelo led vermelho.
