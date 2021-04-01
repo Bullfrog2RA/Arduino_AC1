@@ -36,5 +36,7 @@ Ola, meu nome é Leonardo Buonanno tenho 16 anos e sei que o Leo vai me passar j
 ## Caique 
 ![](https://github.com/Bullfrog2RA/Arduino_AC1/blob/main/unknown%20(4).png)
 
+Oi, meu nome é caique tenho 16 aninhos, como eu sei que o leo vai me passar pq eu sou muito legal e carrego ele em qualquer jogo que ele me chame para jogar.
+
 ## Lucca Nicola
 ![](https://github.com/Bullfrog2RA/Arduino_AC1/blob/main/unknown.png)
