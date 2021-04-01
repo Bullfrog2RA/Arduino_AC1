@@ -16,6 +16,7 @@ Entre esses metodos era fazer com que avisa-se sobre a temperatura (led azul), l
 ![](https://github.com/Bullfrog2RA/Arduino_AC1/blob/main/0.png)
 ## Leonardo Buonanno
 ![](https://github.com/Bullfrog2RA/Arduino_AC1/blob/main/Leonardo-Buonanno.png)
+
 Ola, meu nome é Leonardo Buonanno tenho 16 anos e sei que o Leo vai me passar ja que carrego ele em qualquer jogo.
 ## Luan
 ![](https://github.com/Bullfrog2RA/Arduino_AC1/blob/main/unknown%20(1).png)
