@@ -42,10 +42,10 @@ void loop()
   }
   if(getTemperatura() > 15){
     ledAzul(true);
-    Serial.println("temepatura elevada");
+    Serial.println("temperatura elevada");
   }else{
   	ledAzul(false);
-    Serial.println("temepatura ideal");
+    Serial.println("temperatura ideal");
   }
   	if(getLuminosidade() > 5){
     ledVerde(true);
