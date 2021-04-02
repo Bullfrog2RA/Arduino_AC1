@@ -26,13 +26,17 @@ Ola, meu nome é Leonardo Buonanno tenho 16 anos e sei que o Leo vai me passar j
 ## Luan
 ![](https://github.com/Bullfrog2RA/Arduino_AC1/blob/main/unknown%20(1).png)
 
+Olá eu sou o Luan, tenho 16 anos costumo escutar bastante música  e jogar vídeo game.
+
 ## Victor Aufieri
 ![](https://github.com/Bullfrog2RA/Arduino_AC1/blob/main/unknown%20(2).png)
 
-E ai eu sou o Victor tenho 16 anos e gosto bastante de jogar e escutar musica no meu tempo livre e so pra registrar o Nicola é um bot
+E ai eu sou o Victor tenho 16 anos e no meu tempo livre gosto bastante de jogar e escutar musica e so pra registrar o Nicola é um bot.
 
 ## Gabriel Alencar
 ![](https://github.com/Bullfrog2RA/Arduino_AC1/blob/main/unknown%20(3).png)
+
+E ai eu sou o Gabriel  tenho 16 anos e gosto bastante de jogar e assistir série  no meu tempo livre.
 
 ## Caique 
 ![](https://github.com/Bullfrog2RA/Arduino_AC1/blob/main/unknown%20(4).png)
