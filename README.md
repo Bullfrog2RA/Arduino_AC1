@@ -29,6 +29,8 @@ Ola, meu nome é Leonardo Buonanno tenho 16 anos e sei que o Leo vai me passar j
 ## Victor Aufieri
 ![](https://github.com/Bullfrog2RA/Arduino_AC1/blob/main/unknown%20(2).png)
 
+E ai eu sou o Victor tenho 16 anos e gosto bastante de jogar e escutar musica no meu tempo livre e so pra registrar o Nicola é um bot
+
 ## Gabriel Alencar
 ![](https://github.com/Bullfrog2RA/Arduino_AC1/blob/main/unknown%20(3).png)
 
