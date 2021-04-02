@@ -11,9 +11,9 @@ Use o FORK para adicionar esse projeto a sua organização antes de começar.
 
 ## **O PROBLEMA:** 
 
-Nosso grupo foi chamado para fazermos um sistema eletrico em uma fabrica. Nesse sistema elétrico nos tivemos que fazer metodos para manter um cotrole na fabrica.
+Nosso grupo foi chamado para fazermos um sistema elétrico em uma fábrica. Nesse sistema elétrico nos tivemos que fazer métodos para manter um cotrole na fábrica.
 
-Entre esses metodos era fazer com que avisa-se sobre a temperatura (led azul), luminosidade (led verde) e um botao que ligava e deligava para saber se a produçao esta acontecendo ou esta parada (led vermelho)
+Entre esses métodos consistia em fazer com que avisa-se sobre a temperatura (led azul), luminosidade (led verde) e um botão que ligava e desligava para saber se a produção está acontecendo ou está parada (led vermelho)
 
 ## **ACRESCENTOS:**
 Adicionamos um botão para ligar e desligar o led vermelho que indica a produção, fios para que o botao funcionasse por completo e editamos/adicionamos alguns codigos. 
@@ -24,7 +24,7 @@ Adicionamos um botão para ligar e desligar o led vermelho que indica a produç�
 ## Leonardo Buonanno
 ![](https://github.com/Bullfrog2RA/Arduino_AC1/blob/main/Leonardo-Buonanno.png)
 
-Ola, meu nome é Leonardo Buonanno tenho 16 anos e sei que o Leo vai me passar ja que carrego ele em qualquer jogo.
+Ola, meu nome é Leonardo Buonanno tenho 16 anos e sei que o Leo vai me passar, ja que carrego ele em qualquer jogo.
 
 ## Luan
 ![](https://github.com/Bullfrog2RA/Arduino_AC1/blob/main/unknown%20(1).png)
