@@ -11,7 +11,7 @@ Use o FORK para adicionar esse projeto a sua organização antes de começar.
 
 ## **O PROBLEMA:** 
 
-Nosso grupo foi chamado para fazermos um sistema elétrico em uma fábrica. Nesse sistema elétrico nos tivemos que fazer métodos para manter um cotrole na fábrica.
+Nosso grupo foi chamado para fazermos um sistema elétrico em uma fábrica. Nesse sistema elétrico nós tivemos que fazer métodos para manter um cotrole na fábrica.
 
 Entre esses métodos consistia em fazer com que avisa-se sobre a temperatura (led azul), luminosidade (led verde) e um botão que ligava e desligava para saber se a produção está acontecendo ou está parada (led vermelho)
 
@@ -34,17 +34,17 @@ Olá eu sou o Luan, tenho 16 anos costumo escutar bastante música  e jogar víd
 ## Victor Aufieri
 ![](https://github.com/Bullfrog2RA/Arduino_AC1/blob/main/unknown%20(2).png)
 
-E ai eu sou o Victor tenho 16 anos e no meu tempo livre gosto bastante de jogar e escutar musica e so pra registrar o Nicola é um bot.
+E ai eu sou o Victor tenho 16 anos e no meu tempo livre gosto bastante de jogar e escutar música e só para registrar o Nicola é um bot.
 
 ## Gabriel Alencar
 ![](https://github.com/Bullfrog2RA/Arduino_AC1/blob/main/unknown%20(3).png)
 
-E ai eu sou o Gabriel  tenho 16 anos e gosto bastante de jogar e assistir série  no meu tempo livre.
+E ai eu sou o Gabriel tenho 16 anos e gosto bastante de jogar e assistir série  no meu tempo livre.
 
 ## Caique 
 ![](https://github.com/Bullfrog2RA/Arduino_AC1/blob/main/unknown%20(4).png)
 
-Oi, meu nome é caique tenho 16 aninhos, como eu sei que o leo vai me passar pq eu sou muito legal e carrego ele em qualquer jogo que ele me chame para jogar.
+Oi, meu nome é caique tenho 16 aninhos, como eu sei que o leo vai me passar porque eu sou muito legal e carrego ele em qualquer jogo que ele me chame para jogar.
 
 ## Lucca Nicola
 ![](https://github.com/Bullfrog2RA/Arduino_AC1/blob/main/unknown.png)
