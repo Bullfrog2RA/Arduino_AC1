@@ -8,7 +8,6 @@ Use o FORK para adicionar esse projeto a sua organização antes de começar.
 
 ![](https://github.com/Bullfrog2RA/Arduino_AC1/blob/main/AC1.png)
 
-https://www.tinkercad.com/things/7IuDZ6ohvEE-start-simulating/editel?lessonid=EHD2303J3YPUS5Z&projectid=OIYJ88OJ3OPN3EA&collectionid=OIYJ88OJ3OPN3EA#/lesson-viewer
 
 ## **O PROBLEMA:** 
 
