@@ -21,6 +21,8 @@ Adicionamos um botão para ligar e desligar o led vermelho que indica a produç�
 ## Guilherme Freitas
 ![](https://github.com/Bullfrog2RA/Arduino_AC1/blob/main/0.png)
 
+Opa, sou o Freitas tenho 15 anos, curto muito jogar alguns jogos e quase certeza que o leo vai me passar, ja que sou o mais gente boa de todos.
+
 ## Leonardo Buonanno
 ![](https://github.com/Bullfrog2RA/Arduino_AC1/blob/main/Leonardo-Buonanno.png)
 
